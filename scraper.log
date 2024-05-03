@@ -1,0 +1,16 @@
+2024-05-03 22:08:21,067 - WARNING  19057 --- [competitions_main.py:180] | No table on page Baden-Württemberg - 2025
+2024-05-03 22:08:22,076 - WARNING  19057 --- [competitions_main.py:180] | No table on page Bayern - 2025
+2024-05-03 22:08:23,087 - WARNING  19057 --- [competitions_main.py:180] | No table on page Berlin - 2025
+2024-05-03 22:08:24,097 - WARNING  19057 --- [competitions_main.py:180] | No table on page Brandenburg - 2025
+2024-05-03 22:08:25,108 - WARNING  19057 --- [competitions_main.py:180] | No table on page Bremen - 2025
+2024-05-03 22:08:26,118 - WARNING  19057 --- [competitions_main.py:180] | No table on page Hamburg - 2025
+2024-05-03 22:08:27,127 - WARNING  19057 --- [competitions_main.py:180] | No table on page Hessen - 2025
+2024-05-03 22:08:28,140 - WARNING  19057 --- [competitions_main.py:180] | No table on page Mecklenburg-Vorpommern - 2025
+2024-05-03 22:08:29,152 - WARNING  19057 --- [competitions_main.py:180] | No table on page Niedersachsen - 2025
+2024-05-03 22:08:30,163 - WARNING  19057 --- [competitions_main.py:180] | No table on page Nordrhein-Westfalen - 2025
+2024-05-03 22:08:31,173 - WARNING  19057 --- [competitions_main.py:180] | No table on page Rheinland-Pfalz - 2025
+2024-05-03 22:08:32,183 - WARNING  19057 --- [competitions_main.py:180] | No table on page Saarland - 2025
+2024-05-03 22:08:33,194 - WARNING  19057 --- [competitions_main.py:180] | No table on page Sachsen - 2025
+2024-05-03 22:08:34,205 - WARNING  19057 --- [competitions_main.py:180] | No table on page Sachsen-Anhalt - 2025
+2024-05-03 22:08:35,216 - WARNING  19057 --- [competitions_main.py:180] | No table on page Schleswig-Holstein - 2025
+2024-05-03 22:08:36,226 - WARNING  19057 --- [competitions_main.py:180] | No table on page Thüringen - 2025
