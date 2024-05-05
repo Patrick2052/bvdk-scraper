@@ -9,6 +9,7 @@ from datetime import datetime
 class LinkInfo(BaseModel):
     text: str
     url: HttpUrl
+    scraped_at: datetime | None = None
 
 
 class CompetitionInfo(BaseModel):
@@ -30,3 +31,4 @@ class CompetiotionFromHtmlTable(BaseModel):
     url_to_page: HttpUrl | None
     location_string: str
     links: List[LinkInfo] | None = None
+    scraped_at: datetime

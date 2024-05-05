@@ -35,8 +35,7 @@ def scrape_comps_table(driver: WebDriver):
     headers = [h.text for h in thead.find_elements(By.CSS_SELECTOR, 'tr th')]
 
     if headers != ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']:
-        main_logger.warn(f"Headers do not fit: given: {
-                         headers} || expected: ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']")
+        main_logger.warn(f"Headers do not fit: given: {headers} || expected: ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']")
 
     print(headers)
 
@@ -59,7 +58,8 @@ def scrape_comps_table(driver: WebDriver):
 
         links = [schemas.LinkInfo(
             text=link.text,
-            url=link.get_attribute('href')
+            url=link.get_attribute('href'),
+            scraped_at=datetime.now()
         ) for link in links]
 
         url_to_page = name_row.find_element(
@@ -70,7 +70,8 @@ def scrape_comps_table(driver: WebDriver):
             name=name_row.text,
             location_string=location_row.text,
             url_to_page=url_to_page,
-            links=links
+            links=links,
+            scraped_at=datetime.now()
         )
 
         comps.append(comp)
@@ -78,7 +79,7 @@ def scrape_comps_table(driver: WebDriver):
     return comps
 
 
-def scrape_bvdk_bundesländer_comps():
+def scrape_bvdk_bundesländer_comps(from_year: int = 2024, to_year: int = 2024):
 
     db = DatabaseSession()
 
@@ -100,10 +101,10 @@ def scrape_bvdk_bundesländer_comps():
     bl = get_bl_select(driver)
 
     bundesländer = [bl.text for bl in bl.options]
-    years_to_scrape = range(current_year - 3, current_year + 2)
+    years_to_scrape = range(from_year, to_year + 1)
 
     for year in years_to_scrape:
-        print(f"Start {year}")
+        main_logger.debug(f"Start {year}")
 
         # TODO what if no year selet on page
         year_select = get_year_select(driver)
@@ -114,28 +115,40 @@ def scrape_bvdk_bundesländer_comps():
         # except NoSuchElementException as e:
         #     print("No throbber")
         #     raise
-        print("wait...")
+        main_logger.debug("wait...")
         WebDriverWait(driver, 10, poll_frequency=0.2).until(EC.invisibility_of_element_located(
             (By.CSS_SELECTOR, '.ajax-progress-throbber')))
-        print("continue...")
+        main_logger.debug("continue...")
         time.sleep(1)
 
         #! iterate over bls
         for bundesland in bundesländer:
-            print(f"Scraping {bundesland} - {year}")
+            main_logger.debug(f"Scraping {bundesland} - {year}")
+            driver.refresh()
+
             bl_select = get_bl_select(driver)
-            bl_select.deselect_all()
+            main_logger.debug(f"selected: {[str(x.text) for x in bl_select.all_selected_options]}")
+
+            # # ? deselect
+            # bl_select.deselect_all()
+            # main_logger.debug("deselect all")
+            # main_logger.debug(f"selected after deselect: {[str(x.text) for x in bl_select.all_selected_options]}")
+
+            # ? next select
+            bl_select = get_bl_select(driver)
             bl_select.select_by_value(bundesland)
-            time.sleep(1)
-            print("wait for throbber...")
+            main_logger.debug(f"select now: {[str(x.text) for x in bl_select.all_selected_options]}")
+            time.sleep(2)
+            main_logger.debug("wait for throbber...")
             WebDriverWait(driver, 10, poll_frequency=0.2).until(EC.invisibility_of_element_located(
                 (By.CSS_SELECTOR, '.ajax-progress-throbber')))
-            print("continue...")
+            main_logger.debug("continue...")
             time.sleep(1)
+
 
             try:
                 comps = scrape_comps_table(driver)
-                print("table done")
+                main_logger.debug("table done")
             except PageHasNoTableException:
                 main_logger.warn(f"No table on page {bundesland} - {year}")
                 continue
@@ -150,7 +163,8 @@ def scrape_bvdk_bundesländer_comps():
                     is_bundesland_comp=True,
                     bundesland_string=bundesland,
                     is_national_comp=False,
-                    page_scrape_id=new_scrape.id
+                    page_scrape_id=new_scrape.id,
+                    scraped_at=comp.scraped_at
                 )
                 db.add(new_comp)
                 db.commit()
@@ -163,8 +177,24 @@ def scrape_bvdk_bundesländer_comps():
                         text=link.text
                     )
                     db.add(new_link)
+
                 db.commit()
 
-            print(f"{bundesland} done")
+            # ! SCRAPE NATIONAL COMPS
+            driver.get("https://bvdk.de/wettkampfkalenderlv")
+
+
+
+
+
+
+
+
+
+            new_scrape.is_finished = True
+            db.commit()
+
+            main_logger.debug(f"{bundesland} done - [{len(comps)} competitions]")
 
     driver.close()
+

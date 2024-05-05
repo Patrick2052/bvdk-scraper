@@ -20,6 +20,7 @@ class ScrapedCompetitionInfo(Base):
 
     id = Column(Integer(), autoincrement=True, primary_key=True)
 
+    scraped_at = Column(DateTime())
     name = Column(String())
     date_string = Column(String())
     url_to_page = Column(String())
@@ -32,6 +33,8 @@ class ScrapedCompetitionInfo(Base):
     start_date = Column(DateTime(), nullable=True)
     end_date = Column(DateTime(), nullable=True)
 
+    files = Column(ForeignKey("scraped_files.id"))
+
     page_scrape_id = Column(String(), ForeignKey("bvdk_page_scrapes.id"))
 
 
@@ -39,7 +42,20 @@ class ScrapedLink(Base):
     __tablename__ = "scraped_links"
 
     id = Column(Integer(), autoincrement=True, primary_key=True)
-
+    scraped_at = Column(DateTime())
     scraped_competition_id = Column(ForeignKey('scraped_competitions_info.id'))
     text = Column(String())
     url = Column(String())
+
+
+class ScrapedFiles(Base):
+    __tablename__ = "scraped_files"
+
+    id = Column(Integer(), autoincrement=True, primary_key=True)
+    scraped_competition_id = Column(ForeignKey('scraped_competitions_info.id', ondelete="cascade"))
+
+    text = Column(String())
+    remote_url = Column(String())
+    scraper_localpath = Column(String())
+    filetype = Column(String())
+    category = Column(String())
