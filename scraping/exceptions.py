@@ -1,0 +1,2 @@
+class PageHasNoTableException(Exception):
+    pass

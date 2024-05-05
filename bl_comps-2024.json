@@ -1,0 +1,3692 @@
+{
+    "years": [
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "BWG Meisterschaften im KDK EQ und Raw Jugend und Junioren",
+                    "date_string": "18.05.2024 bis 19.05.2024",
+                    "url_to_page": "https://bvdk.de/bwg-meisterschaften-im-kdk-eq-und-raw-jugend-und-junioren",
+                    "location_string": "Fellbach",
+                    "links": [],
+                    "identifier": "datestring: 18.05.2024 bis 19.05.2024, com_name: BWG Meisterschaften im KDK EQ und Raw Jugend und Junioren"
+                },
+                {
+                    "name": "BWG Meisterschaften im KDK EQ und Raw Masters",
+                    "date_string": "18.05.2024 bis 19.05.2024",
+                    "url_to_page": "https://bvdk.de/bwg-meisterschaften-im-kdk-eq-und-raw-masters",
+                    "location_string": "Fellbach",
+                    "links": [],
+                    "identifier": "datestring: 18.05.2024 bis 19.05.2024, com_name: BWG Meisterschaften im KDK EQ und Raw Masters"
+                },
+                {
+                    "name": "BWG Meisterschaften im Bankdrücken EQ und Raw",
+                    "date_string": "22.06.2024 bis 23.06.2024",
+                    "url_to_page": "https://bvdk.de/bwg-meisterschaften-im-bankdr%C3%BCcken-eq-und-raw",
+                    "location_string": "Lautenbach",
+                    "links": [],
+                    "identifier": "datestring: 22.06.2024 bis 23.06.2024, com_name: BWG Meisterschaften im Bankdrücken EQ und Raw"
+                },
+                {
+                    "name": "BWG Meisterschaften im Kreuzheben EQ und Raw",
+                    "date_string": "22.06.2024 bis 23.06.2024",
+                    "url_to_page": "https://bvdk.de/bwg-meisterschaften-im-kreuzheben-eq-und-raw",
+                    "location_string": "Lautenbach",
+                    "links": [],
+                    "identifier": "datestring: 22.06.2024 bis 23.06.2024, com_name: BWG Meisterschaften im Kreuzheben EQ und Raw"
+                },
+                {
+                    "name": "Nord Baden Cup KDK Aktive Bezirksmeisterschaften",
+                    "date_string": "29.06.2024 bis 30.06.2024",
+                    "url_to_page": "https://bvdk.de/nord-baden-cup-kdk-aktive-bezirksmeisterschaften",
+                    "location_string": "Mannheim",
+                    "links": [],
+                    "identifier": "datestring: 29.06.2024 bis 30.06.2024, com_name: Nord Baden Cup KDK Aktive Bezirksmeisterschaften"
+                },
+                {
+                    "name": "Bezirksmeisterschaften Süd KDK Aktive",
+                    "date_string": "03.08.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaften-s%C3%BCd-kdk-aktive",
+                    "location_string": "Lörrach",
+                    "links": [],
+                    "identifier": "datestring: 03.08.2024, com_name: Bezirksmeisterschaften Süd KDK Aktive"
+                }
+            ],
+            "bundesland": "Baden-Württemberg"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Bayern"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                }
+            ],
+            "bundesland": "Berlin"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Brandenburg"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Hamburg"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "Hessenmeisterschaft Bankdrücken Classic/EQ",
+                    "date_string": "15.06.2024",
+                    "url_to_page": "https://bvdk.de/hessenmeisterschaft-bankdr%C3%BCcken-classiceq",
+                    "location_string": "Fulda",
+                    "links": [],
+                    "identifier": "datestring: 15.06.2024, com_name: Hessenmeisterschaft Bankdrücken Classic/EQ"
+                },
+                {
+                    "name": "Hessenmeisterschaft Kreuzheben",
+                    "date_string": "16.06.2024",
+                    "url_to_page": "https://bvdk.de/hessenmeisterschaft-kreuzheben-0",
+                    "location_string": "Fulda",
+                    "links": [],
+                    "identifier": "datestring: 16.06.2024, com_name: Hessenmeisterschaft Kreuzheben"
+                },
+                {
+                    "name": "Hessische Meisterschaft im KDK Classic/EQ der Jugend/Junioren/Masters",
+                    "date_string": "13.07.2024 bis 14.07.2024",
+                    "url_to_page": "https://bvdk.de/hessische-meisterschaft-im-kdk-classiceq-der-jugendjuniorenmasters",
+                    "location_string": "Langen",
+                    "links": [],
+                    "identifier": "datestring: 13.07.2024 bis 14.07.2024, com_name: Hessische Meisterschaft im KDK Classic/EQ der Jugend/Junioren/Masters"
+                },
+                {
+                    "name": "Hessische Meisterschaft im KDK Classic/EQ der Aktiven",
+                    "date_string": "14.09.2024 bis 15.09.2024",
+                    "url_to_page": "https://bvdk.de/hessische-meisterschaft-im-kdk-classiceq-der-aktiven",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [],
+                    "identifier": "datestring: 14.09.2024 bis 15.09.2024, com_name: Hessische Meisterschaft im KDK Classic/EQ der Aktiven"
+                },
+                {
+                    "name": "Hessische Mannschaftsmeisterschaft Classic",
+                    "date_string": "30.11.2024",
+                    "url_to_page": "https://bvdk.de/hessische-mannschaftsmeisterschaft-classic-1",
+                    "location_string": "Niestetal",
+                    "links": [],
+                    "identifier": "datestring: 30.11.2024, com_name: Hessische Mannschaftsmeisterschaft Classic"
+                }
+            ],
+            "bundesland": "Hessen"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Mecklenburg-Vorpommern"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "LM Bankdrücken Niedersachsen",
+                    "date_string": "04.05.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-niedersachsen-0",
+                    "location_string": "Ankum",
+                    "links": [],
+                    "identifier": "datestring: 04.05.2024, com_name: LM Bankdrücken Niedersachsen"
+                },
+                {
+                    "name": "LM Kreuzheben Niedersachsen",
+                    "date_string": "04.05.2024",
+                    "url_to_page": "https://bvdk.de/lm-kreuzheben-niedersachsen-0",
+                    "location_string": "Ankum",
+                    "links": [],
+                    "identifier": "datestring: 04.05.2024, com_name: LM Kreuzheben Niedersachsen"
+                },
+                {
+                    "name": "LM KDK Jugend/Junioren/Senioren Niedersachsen",
+                    "date_string": "22.06.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-jugendjuniorensenioren-niedersachsen",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 22.06.2024, com_name: LM KDK Jugend/Junioren/Senioren Niedersachsen"
+                },
+                {
+                    "name": "LM KDK Aktive Niedersachsen",
+                    "date_string": "03.08.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-aktive-niedersachsen",
+                    "location_string": "Papenburg",
+                    "links": [],
+                    "identifier": "datestring: 03.08.2024, com_name: LM KDK Aktive Niedersachsen"
+                }
+            ],
+            "bundesland": "Niedersachsen"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Nordrhein-Westfalen"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                }
+            ],
+            "bundesland": "Rheinland-Pfalz"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Saarland"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "1. Runde Sachsenliga BD",
+                    "date_string": "31.08.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-bd-0",
+                    "location_string": "nach Ansetzung",
+                    "links": [],
+                    "identifier": "datestring: 31.08.2024, com_name: 1. Runde Sachsenliga BD"
+                },
+                {
+                    "name": "2. Runde Sachsenliga BD",
+                    "date_string": "14.09.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-bd-0",
+                    "location_string": "nach Ansetzung",
+                    "links": [],
+                    "identifier": "datestring: 14.09.2024, com_name: 2. Runde Sachsenliga BD"
+                },
+                {
+                    "name": "Finale Sachsenliga BD",
+                    "date_string": "28.09.2024",
+                    "url_to_page": "https://bvdk.de/finale-sachsenliga-bd-0",
+                    "location_string": "Punktbester der Vorrunden",
+                    "links": [],
+                    "identifier": "datestring: 28.09.2024, com_name: Finale Sachsenliga BD"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kraftdreikampf RAW/EQ alle Klassen",
+                    "date_string": "09.11.2024 bis 10.11.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kraftdreikampf-raweq-alle-klassen",
+                    "location_string": "Dresden",
+                    "links": [],
+                    "identifier": "datestring: 09.11.2024 bis 10.11.2024, com_name: Sachsenmeisterschaft Kraftdreikampf RAW/EQ alle Klassen"
+                }
+            ],
+            "bundesland": "Sachsen"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Sachsen-Anhalt"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Hamburger Stadtmeisterschaft KDK",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/hamburger-stadtmeisterschaft-kdk",
+                    "location_string": "Hamburg",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_3.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: Hamburger Stadtmeisterschaft KDK"
+                },
+                {
+                    "name": "LM KDK SH Aktive/Masters - mit Normen",
+                    "date_string": "03.08.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-sh-aktivemasters-mit-normen",
+                    "location_string": "Hamburg",
+                    "links": [],
+                    "identifier": "datestring: 03.08.2024, com_name: LM KDK SH Aktive/Masters - mit Normen"
+                },
+                {
+                    "name": "LM KDK Jug/Jun RAW/Eq.",
+                    "date_string": "31.08.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-jugjun-raweq",
+                    "location_string": "Schleswig??",
+                    "links": [],
+                    "identifier": "datestring: 31.08.2024, com_name: LM KDK Jug/Jun RAW/Eq."
+                },
+                {
+                    "name": "HH-Kraftspiele",
+                    "date_string": "12.10.2024",
+                    "url_to_page": "https://bvdk.de/hh-kraftspiele",
+                    "location_string": "Oldenburg/NDS",
+                    "links": [],
+                    "identifier": "datestring: 12.10.2024, com_name: HH-Kraftspiele"
+                }
+            ],
+            "bundesland": "Schleswig-Holstein"
+        },
+        {
+            "year": 2024,
+            "comps": [
+                {
+                    "name": "Wettkampfkalender MV 2024",
+                    "date_string": "01.01.2024",
+                    "url_to_page": "https://bvdk.de/wettkampfkalender-mv-2024",
+                    "location_string": "",
+                    "links": [],
+                    "identifier": "datestring: 01.01.2024, com_name: Wettkampfkalender MV 2024"
+                },
+                {
+                    "name": "1. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_1R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_1R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: 1. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Colonia Cup - Winter Edition",
+                    "date_string": "13.01.2024",
+                    "url_to_page": "https://bvdk.de/colonia-cup-winter-edition",
+                    "location_string": "Köln",
+                    "links": [
+                        {
+                            "text": "Erg_Colonia_Cup_24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Erg_Colonia_Cup_24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.01.2024, com_name: Colonia Cup - Winter Edition"
+                },
+                {
+                    "name": "Offene KDK Bezirksmeisterschaft RAW",
+                    "date_string": "14.01.2024",
+                    "url_to_page": "https://bvdk.de/offene-kdk-bezirksmeisterschaft-raw",
+                    "location_string": "Obere Kreuzstraße 9-13, 55120 Mainz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse RLP 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20RLP%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 14.01.2024, com_name: Offene KDK Bezirksmeisterschaft RAW"
+                },
+                {
+                    "name": "KSV Wintercup 2024",
+                    "date_string": "27.01.2024 bis 28.01.2024",
+                    "url_to_page": "https://bvdk.de/ksv-wintercup-2024",
+                    "location_string": "Frankfurt",
+                    "links": [
+                        {
+                            "text": "FFM_Winter.pdf",
+                            "url": "https://www.bvdk.de/system/files/FFM_Winter.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 27.01.2024 bis 28.01.2024, com_name: KSV Wintercup 2024"
+                },
+                {
+                    "name": "Einladung zur Kampfrichter Aus- und Weiterbildung",
+                    "date_string": "27.01.2024",
+                    "url_to_page": "https://bvdk.de/einladung-zur-kampfrichter-aus-und-weiterbildung",
+                    "location_string": "Clubraum, Paul-Heyse-Str. 25, 10407 Berlin",
+                    "links": [],
+                    "identifier": "datestring: 27.01.2024, com_name: Einladung zur Kampfrichter Aus- und Weiterbildung"
+                },
+                {
+                    "name": "1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali",
+                    "date_string": "28.01.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-th%C3%BCringer-landesmannschaftsmeisterschaft-kraftdreikampf-quali",
+                    "location_string": "Erfurt",
+                    "links": [
+                        {
+                            "text": "Ergb._1.Runde-TLMM_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb._1.Runde-TLMM_KDK_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 28.01.2024, com_name: 1. Runde Thüringer Landesmannschaftsmeisterschaft Kraftdreikampf /Quali"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südwest",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdwest-0",
+                    "location_string": "Wiesbaden",
+                    "links": [
+                        {
+                            "text": "BM_SW24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SW24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Bezirksmeisterschaft Südwest"
+                },
+                {
+                    "name": "1. Runde Sachsenliga KDK RAW",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/1-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Dresden",
+                    "links": [
+                        {
+                            "text": "Protokoll 1. Runde SL KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%201.%20Runde%20SL%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: 1. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben",
+                    "date_string": "03.02.2024",
+                    "url_to_page": "https://bvdk.de/sachsen-anhalt-liga-im-kdk-sachsen-anhalt-turnier-im-kdk-bankdr%C3%BCcken-kreuzheben-1",
+                    "location_string": "Oranienbaum",
+                    "links": [
+                        {
+                            "text": "LL KDK 2024 neu.pdf",
+                            "url": "https://www.bvdk.de/system/files/LL%20KDK%202024%20neu.pdf"
+                        },
+                        {
+                            "text": "LT Bank Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Bank%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LT Kreuz 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LT%20Kreuz%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 03.02.2024, com_name: Sachsen-Anhalt-Liga im KDK & Sachsen-Anhalt-Turnier im KDK / Bankdrücken / Kreuzheben"
+                },
+                {
+                    "name": "(Testwettkampf KDK Braunschweig)",
+                    "date_string": "10.02.2024",
+                    "url_to_page": "https://bvdk.de/testwettkampf-kdk-braunschweig",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 10.02.2024, com_name: (Testwettkampf KDK Braunschweig)"
+                },
+                {
+                    "name": "Einladungsturnier KDK",
+                    "date_string": "17.02.2024",
+                    "url_to_page": "https://bvdk.de/einladungsturnier-kdk-2",
+                    "location_string": "Preetz",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 17.02.2024, com_name: Einladungsturnier KDK"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Südost",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-s%C3%BCdost-0",
+                    "location_string": "Langen",
+                    "links": [
+                        {
+                            "text": "BM_SO24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_SO24_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Bezirksmeisterschaft Südost"
+                },
+                {
+                    "name": "LM KDK Berlin/Brandenburg Classic und EQ",
+                    "date_string": "02.03.2024 bis 03.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-kdk-berlinbrandenburg-classic-und-eq-0",
+                    "location_string": "Lauchhammer",
+                    "links": [
+                        {
+                            "text": "LM KDK Classic 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20Classic%202024.pdf"
+                        },
+                        {
+                            "text": "LM KDK EQ 2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/LM%20KDK%20EQ%202024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024 bis 03.03.2024, com_name: LM KDK Berlin/Brandenburg Classic und EQ"
+                },
+                {
+                    "name": "2. Runde Sachsenliga KDK RAW",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-sachsenliga-kdk-raw",
+                    "location_string": "Bad Lausick, Leipzig",
+                    "links": [
+                        {
+                            "text": "Protokoll Finalrunde SL KDK RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Protokoll%20Finalrunde%20SL%20KDK%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: 2. Runde Sachsenliga KDK RAW"
+                },
+                {
+                    "name": "LM Bankdrücken SH",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/lm-bankdr%C3%BCcken-sh",
+                    "location_string": "Schleswig",
+                    "links": [
+                        {
+                            "text": "Ergebnisse LL Bank 24.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20LL%20Bank%2024_0.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: LM Bankdrücken SH"
+                },
+                {
+                    "name": "Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf",
+                    "date_string": "02.03.2024",
+                    "url_to_page": "https://bvdk.de/offene-nordth%C3%BCringer-classic-jugendmeisterschaft-im-kraftdreikampf",
+                    "location_string": "Günstedt",
+                    "links": [
+                        {
+                            "text": "Ergb.Nordthüringer Classik-Jugendmeisterschaft KDK.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb.Nordth%C3%BCringer%20Classik-Jugendmeisterschaft%20KDK.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 02.03.2024, com_name: Offene Nordthüringer Classic Jugendmeisterschaft im Kraftdreikampf"
+                },
+                {
+                    "name": "Bezirksmeisterschaft Nord/Mitte",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-nordmitte-0",
+                    "location_string": "Gießen/Wetzlar",
+                    "links": [
+                        {
+                            "text": "BM_NM24.pdf",
+                            "url": "https://www.bvdk.de/system/files/BM_NM24.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: Bezirksmeisterschaft Nord/Mitte"
+                },
+                {
+                    "name": "2. Runde Bayernliga Kraftdreikampf",
+                    "date_string": "09.03.2024",
+                    "url_to_page": "https://bvdk.de/2-runde-bayernliga-kraftdreikampf-6",
+                    "location_string": "nach Ausschreibung",
+                    "links": [
+                        {
+                            "text": "Res_2R_BayLi_KDK_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_2R_BayLi_KDK_2024.pdf"
+                        },
+                        {
+                            "text": "Bayernliga_KDK_Gesamt_2024_2.pdf",
+                            "url": "https://www.bvdk.de/system/files/Bayernliga_KDK_Gesamt_2024_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 09.03.2024, com_name: 2. Runde Bayernliga Kraftdreikampf"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-kreuzheben-raweq-alle-klassen",
+                    "location_string": "Bautzen",
+                    "links": [
+                        {
+                            "text": "Ergebnisse SM KH EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20EQ.pdf"
+                        },
+                        {
+                            "text": "Ergebnisse SM KH RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse%20SM%20KH%20RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Sachsenmeisterschaft Kreuzheben RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Fächerstadt Open",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/f%C3%A4cherstadt-open",
+                    "location_string": "Grötzingen / Karlsruhe",
+                    "links": [
+                        {
+                            "text": "athletes.pdf",
+                            "url": "https://www.bvdk.de/system/files/athletes_2.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Fächerstadt Open"
+                },
+                {
+                    "name": "Allgäu-Cup im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/allg%C3%A4u-cup-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_AllgäuCup_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_Allg%C3%A4uCup_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Allgäu-Cup im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken",
+                    "date_string": "16.03.2024",
+                    "url_to_page": "https://bvdk.de/schw%C3%A4bische-mannschaftsmeisterschaften-im-classic-bankdr%C3%BCcken-3",
+                    "location_string": "Kaufbeuren",
+                    "links": [
+                        {
+                            "text": "Res_SWMM_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_SWMM_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 16.03.2024, com_name: Schwäbische Mannschaftsmeisterschaften im Classic-Bankdrücken"
+                },
+                {
+                    "name": "Newcomer Cup",
+                    "date_string": "23.03.2024",
+                    "url_to_page": "https://bvdk.de/newcomer-cup",
+                    "location_string": "Aachen",
+                    "links": [],
+                    "identifier": "datestring: 23.03.2024, com_name: Newcomer Cup"
+                },
+                {
+                    "name": "Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -",
+                    "date_string": "30.03.2024",
+                    "url_to_page": "https://bvdk.de/niederbayerische-meisterschaften-im-kraftdreikampf-classic-eq-1",
+                    "location_string": "Landshut",
+                    "links": [
+                        {
+                            "text": "Res_NBM_KDK_Classic_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_Classic_2024.pdf"
+                        },
+                        {
+                            "text": "Res_NBM_KDK_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_NBM_KDK_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 30.03.2024, com_name: Niederbayerische Meisterschaften im Kraftdreikampf - Classic & EQ -"
+                },
+                {
+                    "name": "Bezirksmeisterschaft KDK RAW",
+                    "date_string": "31.03.2024",
+                    "url_to_page": "https://bvdk.de/bezirksmeisterschaft-kdk-raw",
+                    "location_string": "Kiel",
+                    "links": [
+                        {
+                            "text": "Ergebnisse.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergebnisse_1.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 31.03.2024, com_name: Bezirksmeisterschaft KDK RAW"
+                },
+                {
+                    "name": "Kampfrichteraus-/fortbildung Niedersachsen 2024",
+                    "date_string": "06.04.2024",
+                    "url_to_page": "https://bvdk.de/kampfrichteraus-fortbildung-niedersachsen-2024",
+                    "location_string": "Braunschweig",
+                    "links": [],
+                    "identifier": "datestring: 06.04.2024, com_name: Kampfrichteraus-/fortbildung Niedersachsen 2024"
+                },
+                {
+                    "name": "Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/sachsenmeisterschaft-bankdr%C3%BCcken-raweq-alle-klassen",
+                    "location_string": "Bad Lausick",
+                    "links": [
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_EQ.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_EQ.pdf"
+                        },
+                        {
+                            "text": "240413_Ergebnisse_SM_BD_RAW.pdf",
+                            "url": "https://www.bvdk.de/system/files/240413_Ergebnisse_SM_BD_RAW.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Sachsenmeisterschaft Bankdrücken RAW/EQ alle Klassen"
+                },
+                {
+                    "name": "Thüringer Landesmeisterschaft Bankdrücken",
+                    "date_string": "13.04.2024",
+                    "url_to_page": "https://bvdk.de/th%C3%BCringer-landesmeisterschaft-bankdr%C3%BCcken",
+                    "location_string": "Sonneberg",
+                    "links": [
+                        {
+                            "text": "Ergb_TLM_BD_Classic_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Ergb_TLM_BD_Classic_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 13.04.2024, com_name: Thüringer Landesmeisterschaft Bankdrücken"
+                },
+                {
+                    "name": "BM Bankdrücken Classic & EQ",
+                    "date_string": "20.04.2024",
+                    "url_to_page": "https://bvdk.de/bm-bankdr%C3%BCcken-classic-eq-1",
+                    "location_string": "Randersacker",
+                    "links": [
+                        {
+                            "text": "Res_BM_BD_C_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_C_2024.pdf"
+                        },
+                        {
+                            "text": "Res_BM_BD_EQ_2024.pdf",
+                            "url": "https://www.bvdk.de/system/files/Res_BM_BD_EQ_2024.pdf"
+                        }
+                    ],
+                    "identifier": "datestring: 20.04.2024, com_name: BM Bankdrücken Classic & EQ"
+                }
+            ],
+            "bundesland": "Thüringen"
+        }
+    ]
+}

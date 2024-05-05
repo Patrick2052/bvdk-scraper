@@ -2,8 +2,14 @@ from selenium.webdriver.firefox.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
+from scraping.bvdk_page_utils import get_bl_select, get_year_select
 
 from core.logger import main_logger
+
 
 from pydantic import BaseModel, HttpUrl
 from typing import List
@@ -11,6 +17,7 @@ from datetime import datetime
 import time
 from pprint import pprint
 import json
+
 
 class Link(BaseModel):
     text: str
@@ -23,6 +30,7 @@ class CompetitionInfo(BaseModel):
     url_to_page: HttpUrl | None
     location_string: str
     links: List[Link] | None = None
+    identifier: str
 
 
 class CompOverall(BaseModel):
@@ -33,6 +41,7 @@ class CompOverall(BaseModel):
 
 class MainCompData(BaseModel):
     years: List[CompOverall]
+
 
 class PageHasNoTableException(Exception):
     pass
@@ -56,7 +65,8 @@ def scrape_comps_table(driver: WebDriver):
     headers = [h.text for h in thead.find_elements(By.CSS_SELECTOR, 'tr th')]
 
     if headers != ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']:
-        main_logger.warn(f"Headers do not fit: given: {headers} || expected: ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']")
+        main_logger.warn(f"Headers do not fit: given: {
+                         headers} || expected: ['Wettkampfdatum', 'Wettkampf', 'Ort', 'Ergebnisse']")
 
     print(headers)
 
@@ -82,14 +92,17 @@ def scrape_comps_table(driver: WebDriver):
             url=link.get_attribute('href')
         ) for link in links]
 
-        url_to_page = name_row.find_element(By.CSS_SELECTOR, 'a').get_property('href')
+        url_to_page = name_row.find_element(
+            By.CSS_SELECTOR, 'a').get_property('href')
 
         comp = CompetitionInfo(
             date_string=date_row.text,
             name=name_row.text,
             location_string=location_row.text,
             url_to_page=url_to_page,
-            links=links
+            links=links,
+            identifier=f"datestring: {
+                date_row.text}, com_name: {name_row.text}"
         )
 
         comps.append(comp)
@@ -110,15 +123,18 @@ def scrape_main_comps(driver: WebDriver):
 
     current_year = datetime.now().year
 
-    def get_year_select():
-        year_selector = driver.find_element(By.CSS_SELECTOR, '#edit-field-wettkampfdatum-value-value-year')
-        return Select(year_selector)
+    # def get_year_select():
+    #     year_selector = driver.find_element(
+    #         By.CSS_SELECTOR, '#edit-field-wettkampfdatum-value-value-year')
+    #     return Select(year_selector)
 
     years = range(current_year - 3, current_year + 2)
     for year in years:
-        year_select = get_year_select()
+        year_select = get_year_select(driver)
         try:
             year_select.select_by_value(str(year))
+            time.sleep(4)
+
             comps = scrape_comps_table(driver)
             MAIN_COMPS.append({
                 "year": year,
@@ -136,6 +152,7 @@ def scrape_main_comps(driver: WebDriver):
         file.write(CM.model_dump_json(indent=4))
         file.close()
 
+
 def scrape_bundesländer(driver: WebDriver):
     MAIN_COMPS: List[CompOverall] = list()
 
@@ -143,14 +160,16 @@ def scrape_bundesländer(driver: WebDriver):
 
     current_year = datetime.now().year
 
-    def get_year_select():
-        year_selector = driver.find_element(By.CSS_SELECTOR, '#edit-field-wettkampfdatum-value-value-year')
-        return Select(year_selector)
+    # def get_year_select():
+    #     year_selector = driver.find_element(
+    #         By.CSS_SELECTOR, '#edit-field-wettkampfdatum-value-value-year')
+    #     return Select(year_selector)
 
-    def get_bl_select():
-        """Bundesland select element"""
-        s = driver.find_element(By.CSS_SELECTOR, '#edit-field-bundeslandverein-value')
-        return Select(s)
+    # def get_bl_select():
+    #     """Bundesland select element"""
+    #     s = driver.find_element(
+    #         By.CSS_SELECTOR, '#edit-field-bundeslandverein-value')
+    #     return Select(s)
 
     bl = get_bl_select()
     bl.options
@@ -158,20 +177,23 @@ def scrape_bundesländer(driver: WebDriver):
     bundesländer = [bl.text for bl in bl.options]
 
     years = range(current_year - 3, current_year + 2)
+    # years = [2024]
     for year in years:
         print(f"Start {year}")
-        year_select = get_year_select()
+        year_select = get_year_select(driver)
         try:
             year_select.select_by_value(str(year))
-            time.sleep(1)
+            time.sleep(4)
         except NoSuchElementException:
             main_logger.warn("No such element")
+
         # for every year go through every bundesland
         for bundesland in bundesländer:
             print(f"Scraping {bundesland} - {year}")
-            bl_select = get_bl_select()
+            bl_select = get_bl_select(driver)
+            bl_select.deselect_all()
             bl_select.select_by_value(bundesland)
-            time.sleep(1)
+            time.sleep(4)
 
             try:
                 comps = scrape_comps_table(driver)
